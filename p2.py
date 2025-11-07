@@ -1,3 +1,5 @@
+#Develop a fuzzy membership function and visualize different membership types 
+(Triangular, Trapezoidal, Gaussian).
 import numpy as np
 import matplotlib.pyplot as plt
 # -------------------------------
@@ -31,3 +33,4 @@ plt.ylabel("Membership Degree μ(x)")
 plt.legend()
 plt.grid(True)
 plt.show()
+
