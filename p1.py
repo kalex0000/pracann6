@@ -1,3 +1,4 @@
+#Implement basic fuzzy set operations (union, intersection, complement). 
 import numpy as np
 # -------------------------------
 # Fuzzy Set Operations
@@ -31,3 +32,4 @@ print("Fuzzy Set B:", B)
 print("Union (A ∪ B):", union_AB)
 print("Intersection (A ∩ B):", inter_AB)
 print("Complement (¬A):", comp_A)
+
